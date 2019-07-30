@@ -1,0 +1,59 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.active {
+	background-color: #4CAF50;
+}
+
+.right {
+	margin-left: 820px;
+}
+
+
+.signup {
+	margin: 50px, 30px, 50px, 80px;
+}
+
+    .jumbotron{
+    margin:25px 50px 75px;
+    border:2px solid #87CEFA;
+    box-shadow: 25px 10px #888858;
+    }
+    
+    body {
+	background-color: #B0E0E6;
+}
+
+.footer-bottom {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    border-top: 1px solid rgba(0,0,0,0.09);
+    background: #fff;
+    
+}
+
+.error {
+  color: red;
+  margin-left: 5px;
+}
+ 
+label.error {
+  display: inline;
+}

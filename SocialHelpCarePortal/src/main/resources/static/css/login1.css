@@ -1,0 +1,45 @@
+.login-form{
+    width:360px;
+    background: #f1f1f1;
+    height: 580;
+    padding: 80px 40px;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+}
+body{
+    min-height: 100vh;
+    background-color:#B0E0E6;
+    text-align: center;
+}
+h4{
+	text-align: center;
+	
+}
+.txtb{
+    border-bottom: 2px solid #adadad;
+    position: relative;
+    margin: 30px 0;
+  }
+  
+   select {
+        width: 170px;
+        margin: 0px;
+    }
+    
+    .jumbotron{
+    margin:25px 50px 75px;
+    border:2px solid #87CEFA;
+    box-shadow: 25px 10px #888858;
+    }
+    
+    #signup{
+    background-color:#DCDCDC;
+    }
+    
+    #login{
+    background-color:#008B8B;
+    }
